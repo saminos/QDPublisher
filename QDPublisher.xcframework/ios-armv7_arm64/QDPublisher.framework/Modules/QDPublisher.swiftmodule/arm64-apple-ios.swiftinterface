@@ -7,8 +7,15 @@ import Foundation
 @_exported import QDPublisher
 import Swift
 import UIKit
-@_hasMissingDesignatedInitializers public class QDPublisher {
-  public static let shared: QDPublisher.QDPublisher
+public protocol QDPublisherable : AnyObject {
+  var connectionErrorHandler: ((Swift.String) -> Swift.Void)? { get set }
+  var debug: Swift.Bool { get set }
+  func setup(_ integrationKey: Swift.String)
+  func track(location: CoreLocation.CLLocation)
+  func track(generic passedParams: [Swift.String : Any])
+}
+@_hasMissingDesignatedInitializers public class QDPublisher : QDPublisher.QDPublisherable {
+  public static let shared: QDPublisher.QDPublisherable
   public var connectionErrorHandler: ((Swift.String) -> Swift.Void)? {
     get
     set

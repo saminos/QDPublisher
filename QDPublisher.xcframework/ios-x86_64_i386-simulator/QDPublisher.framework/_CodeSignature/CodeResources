@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/QDPublisher.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<data>
-		3zn5GtEen3sVWBMZXdB48YUgMT8=
+		zxFf7QLQUJc+U/R3QlnHzgtEqoI=
 		</data>
 		<key>Modules/QDPublisher.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		I6yw6J/ig/oGI6DaEhuqlpm+grE=
+		67xU/2lJSpO1Zn7eX7eztoqOga4=
 		</data>
 		<key>Modules/QDPublisher.swiftmodule/i386.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/QDPublisher.swiftmodule/i386.swiftinterface</key>
 		<data>
-		3zn5GtEen3sVWBMZXdB48YUgMT8=
+		zxFf7QLQUJc+U/R3QlnHzgtEqoI=
 		</data>
 		<key>Modules/QDPublisher.swiftmodule/i386.swiftmodule</key>
 		<data>
-		I6yw6J/ig/oGI6DaEhuqlpm+grE=
+		67xU/2lJSpO1Zn7eX7eztoqOga4=
 		</data>
 		<key>Modules/QDPublisher.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>Modules/QDPublisher.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		qeQ6mrNcDNHAjxvOdU3Seq7jIZ8=
+		kLz/d3B8+NkK42V/BrLnAn2RY00=
 		</data>
 		<key>Modules/QDPublisher.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		zIHrLLelIQSbRYHqcWbN3gZeEZ0=
+		p6NZzDcu+w4t3qyhig/MKc+RdmU=
 		</data>
 		<key>Modules/QDPublisher.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -74,11 +74,11 @@
 		</data>
 		<key>Modules/QDPublisher.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		qeQ6mrNcDNHAjxvOdU3Seq7jIZ8=
+		kLz/d3B8+NkK42V/BrLnAn2RY00=
 		</data>
 		<key>Modules/QDPublisher.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		zIHrLLelIQSbRYHqcWbN3gZeEZ0=
+		p6NZzDcu+w4t3qyhig/MKc+RdmU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -168,22 +168,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3zn5GtEen3sVWBMZXdB48YUgMT8=
+			zxFf7QLQUJc+U/R3QlnHzgtEqoI=
 			</data>
 			<key>hash2</key>
 			<data>
-			zkBLZF2qqZ6wzj85bVBK68XX/SJT8aeueGUf8MLXaro=
+			Q0F4s8IXEjDF5J3CiGRhMr1GIMHRhGEToeOk3LPxhJk=
 			</data>
 		</dict>
 		<key>Modules/QDPublisher.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			I6yw6J/ig/oGI6DaEhuqlpm+grE=
+			67xU/2lJSpO1Zn7eX7eztoqOga4=
 			</data>
 			<key>hash2</key>
 			<data>
-			sPqBrhU8wMFx2miS9rIChkAkWDwq252CxevLvUD7/lQ=
+			8Lb3xA458MbgntrfYUXqWGvMvY600xgc2ymrIlwNRlQ=
 			</data>
 		</dict>
 		<key>Modules/QDPublisher.swiftmodule/i386.swiftdoc</key>
@@ -201,22 +201,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3zn5GtEen3sVWBMZXdB48YUgMT8=
+			zxFf7QLQUJc+U/R3QlnHzgtEqoI=
 			</data>
 			<key>hash2</key>
 			<data>
-			zkBLZF2qqZ6wzj85bVBK68XX/SJT8aeueGUf8MLXaro=
+			Q0F4s8IXEjDF5J3CiGRhMr1GIMHRhGEToeOk3LPxhJk=
 			</data>
 		</dict>
 		<key>Modules/QDPublisher.swiftmodule/i386.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			I6yw6J/ig/oGI6DaEhuqlpm+grE=
+			67xU/2lJSpO1Zn7eX7eztoqOga4=
 			</data>
 			<key>hash2</key>
 			<data>
-			sPqBrhU8wMFx2miS9rIChkAkWDwq252CxevLvUD7/lQ=
+			8Lb3xA458MbgntrfYUXqWGvMvY600xgc2ymrIlwNRlQ=
 			</data>
 		</dict>
 		<key>Modules/QDPublisher.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -234,22 +234,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qeQ6mrNcDNHAjxvOdU3Seq7jIZ8=
+			kLz/d3B8+NkK42V/BrLnAn2RY00=
 			</data>
 			<key>hash2</key>
 			<data>
-			Sw+OnDM+4puSOUe7yo9JagIxOZJK9SYo3hMTDUrdX1s=
+			JeKQ/ZVtj4wXBM88zwvNvk6uMcGpcqmulDE93sA10Fk=
 			</data>
 		</dict>
 		<key>Modules/QDPublisher.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zIHrLLelIQSbRYHqcWbN3gZeEZ0=
+			p6NZzDcu+w4t3qyhig/MKc+RdmU=
 			</data>
 			<key>hash2</key>
 			<data>
-			bEPcDAubKgoKy1dKUmM7CaPcWK/emJDX09r1B32UNfg=
+			lSiKp1OMox3JW8At6o1COGOcvpsoO47AzVrr7/zedKE=
 			</data>
 		</dict>
 		<key>Modules/QDPublisher.swiftmodule/x86_64.swiftdoc</key>
@@ -267,22 +267,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qeQ6mrNcDNHAjxvOdU3Seq7jIZ8=
+			kLz/d3B8+NkK42V/BrLnAn2RY00=
 			</data>
 			<key>hash2</key>
 			<data>
-			Sw+OnDM+4puSOUe7yo9JagIxOZJK9SYo3hMTDUrdX1s=
+			JeKQ/ZVtj4wXBM88zwvNvk6uMcGpcqmulDE93sA10Fk=
 			</data>
 		</dict>
 		<key>Modules/QDPublisher.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zIHrLLelIQSbRYHqcWbN3gZeEZ0=
+			p6NZzDcu+w4t3qyhig/MKc+RdmU=
 			</data>
 			<key>hash2</key>
 			<data>
-			bEPcDAubKgoKy1dKUmM7CaPcWK/emJDX09r1B32UNfg=
+			lSiKp1OMox3JW8At6o1COGOcvpsoO47AzVrr7/zedKE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

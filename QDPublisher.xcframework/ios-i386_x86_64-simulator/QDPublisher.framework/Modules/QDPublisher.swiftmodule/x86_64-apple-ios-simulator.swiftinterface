@@ -14,7 +14,7 @@ public protocol QDPublisherable : AnyObject {
   func track(location: CoreLocation.CLLocation)
   func track(generic passedParams: [Swift.String : Any])
 }
-@_hasMissingDesignatedInitializers public class QDPublisher : QDPublisher.QDPublisherable {
+@_hasMissingDesignatedInitializers public class QDDataAcquisition : QDPublisher.QDPublisherable {
   public static let shared: QDPublisher.QDPublisherable
   public var connectionErrorHandler: ((Swift.String) -> Swift.Void)? {
     get

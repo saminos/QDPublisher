@@ -15,7 +15,7 @@ let package = Package(
         .target(
             name: "QDPublisher",
             dependencies: [],
-            url: "Core",
-            exclude: ["Info.plist"])
+            url: "https://raw.githubusercontent.com/syaifulQ/QDPublisher/main/QDPublisher.xcframework.zip",
+            checksum: "ceeca766b4251a2105f78b1fd59d1fb8")
     ]
 )

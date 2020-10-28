@@ -10,7 +10,9 @@ let package = Package(
             name: "QDPublisher",
             targets: ["QDPublisher"]),
     ],
-    dependencies: [],
+    dependencies: [
+        package(path: ".")
+    ],
     targets: [
         .target(
             name: "QDPublisher",

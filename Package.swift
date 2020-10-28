@@ -22,6 +22,6 @@ let package = Package(
         .testTarget(
             name: "QDPublisherTests",
             dependencies: ["QDPublisher"]),
-        .binaryTarget(name: "QDPublisher", path: "QDPublisher.xcframework.zip")
+        .binaryTarget(name: "QDPublisher", path: "QDPublisher.xcframework")
     ]
 )

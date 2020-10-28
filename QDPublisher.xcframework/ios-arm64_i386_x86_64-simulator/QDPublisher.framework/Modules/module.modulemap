@@ -1,0 +1,11 @@
+framework module QDPublisher {
+  umbrella header "QDPublisher.h"
+
+  export *
+  module * { export * }
+}
+
+module QDPublisher.Swift {
+    header "QDPublisher-Swift.h"
+    requires objc
+}

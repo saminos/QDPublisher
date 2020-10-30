@@ -18,7 +18,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = "https://www.quadrant.io"
   spec.license      = "MIT (Example)"
   spec.author       = { "Syaiful Amin" => "syaiful@quadrant.io" }
-  spec.source       = { git: "https://github.com/syaifulQ/QDPublisher.git", tag: "#{spec.version}" }
+  spec.source       = { git: "https://github.com/syaifulQ/QDPublisher/blob/main/QDPublisher.xcframework.zip?raw=true", tag: "#{spec.version}" }
   spec.ios.deployment_target = '8.0'
   spec.ios.vendored_frameworks = 'QDPublisher.xcframework.zip'
 
